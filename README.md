@@ -14,9 +14,14 @@ Blog Pessoal
   .Testes
   <h2>
   .Swagger
-
+  <h2>
+  .Deploy
+  </h2>
 <h3>
-Documentação:
+https://blogtobiasgustavo.herokuapp.com/swagger-ui/#/
+</h3>
+<h3>
+Documentação:<h2>
 https://drive.google.com/file/d/1xhADIPDEm01tK_gUWLRiaRdjXnnHS2Jh/view?usp=sharing
 </h3>
 <h1>
