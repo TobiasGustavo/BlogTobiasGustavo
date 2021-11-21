@@ -3,7 +3,7 @@
 Blog Pessoal
 </h2>
   O projeto "Blog Tobias Gustavo" esta vinculado a formação em Desenvolvedor Full Stack Java Jr. Realizado através do BootCamp Generation Brasil.
-  Neste projeto, executei os microserviços para aplicação do FrameWork SpringBoot e Node.Js e execução em Heroku.
+  Neste projeto, executei os microserviços baseado em S.O.L.I.D, aplicado ao frameWork SpringBoot e Testes em JUnit e Node.Js, execução pela API REST em Swagger e     Heroku.
   <h2>
   .Main
   <h2>
